@@ -1,0 +1,7 @@
+../Samples/ntuple_m100_width5.root
+../Samples/ntuple_m200_width5.root
+../Samples/ntuple_m300_width5.root
+../Samples/ntuple_m400_width5.root
+../Samples/ntuple_m500_width5.root
+../Samples/ntuple_m600_width5.root
+../Samples/ntuple_m700_width5.root	
